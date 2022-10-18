@@ -4,7 +4,7 @@ Vim plugin that inserts your signiture on insert mode.
 
 Something like this:
 
-    `Atlas Yu <atlas.yu@canonical.com>`
+    Atlas Yu <atlas.yu@canonical.com>
 
 ## Installation
 
